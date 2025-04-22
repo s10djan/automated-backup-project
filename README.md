@@ -31,3 +31,4 @@ This is a simple but powerful Linux shell script designed to automate file and d
 git clone git@github.com:s10djan/automated-backup-project.git
 cd automated-backup-project
 0 2 * * * /bin/bash /home/kfdjan30/automated-backup-project/backup.sh >> /home/kfdjan30/automated-backup-project/backup.log 2>&1
+# New Edit to README.md
